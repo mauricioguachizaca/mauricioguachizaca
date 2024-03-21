@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 - Soy un apasionado a la programacion Backend pero tambien se poco pero se Frontend
 - Aveces en mi tiempo libre me gusta jugar diferentes juegos
-- Actualemente estoy estudiando la carrera de Computacion
+- Actualmente estoy estudiando la carrera de Computacion
 - Pero aparte me encuantro aprendiendo desarrollo wed 
 - Estoy abrierto en trabajar en cualquier proyecto
 
@@ -42,13 +42,21 @@
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
 )
-  
 
 <br>
 
-- **Cloud Hosting**:
+- **Desarrollo Backend**:
+   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+)
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+<br>
+
+- **Base de datos**:
+
+    ![MongoDb]([https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white))
     
 <br>
 
