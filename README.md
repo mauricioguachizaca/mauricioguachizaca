@@ -10,7 +10,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 - Soy un apasionado a la programacion Backend pero tambien se poco pero se Frontend
 - Aveces en mi tiempo libre me gusta jugar diferentes juegos
 - Actualemente estoy estudiando la carrera de Computacion
